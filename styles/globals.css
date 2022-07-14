@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+* {
+  font-family: poppins;
+}
+.react-multiple-carousel__arrow--right{
+  background-image: linear-gradient(to right, #CE6CF7, #5860CB) !important;
+  border-radius: 20% !important;
+}
+.react-multiple-carousel__arrow--left{
+  background-image: linear-gradient(to right, #CE6CF7, #5860CB) !important;
+  border-radius: 20% !important;
+}
+.nav-button{
+  background-image: linear-gradient(to right, #CE6CF7, #5860CB) !important;
+}
+._3QxTi{
+  background-image: linear-gradient(to right, #CE6CF7, #5860CB) !important;
+
+
+}
